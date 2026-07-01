@@ -55,3 +55,20 @@ header {
 
 }
 
+main {
+    section {
+        background-color: #111111;
+        display: flex;
+        justify-content: center;
+        
+
+        div {
+            width: 560px;
+
+            img {
+                width: 100%;
+            }
+
+        }
+    }
+}
